@@ -5,6 +5,7 @@
 	"type": "module",
 	"scripts": {
 		"setup": "tsx scripts/setup.ts",
+		"generate-secrets": "node scripts/generate-secrets.js",
 		"dev": "DEV_MODE=true vite",
 		"build": "tsc -b --incremental && vite build",
 		"lint": "eslint .",

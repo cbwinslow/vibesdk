@@ -15,7 +15,7 @@
 
 **👆 Click to deploy your own instance!**
 
-*Follow the setup guide below to configure required services*
+*📖 [Read the complete deployment guide](DEPLOYMENT.md) for step-by-step instructions and secret generation*
 
 </div>
 
@@ -326,7 +326,11 @@ The setup script will guide you through:
 - Database setup and migrations
 - Template deployment
 
+**[⚡ Quick Start Guide](QUICKSTART.md)** - Get started in minutes
+
 **[📖 Complete Setup Guide](docs/setup.md)** - Detailed setup instructions and troubleshooting
+
+**[🚀 Deployment Guide](DEPLOYMENT.md)** - Step-by-step Cloudflare deployment with secret generation
 
 ### Development Server
 
